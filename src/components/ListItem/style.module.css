@@ -1,0 +1,28 @@
+.container{
+    width: 17%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.container div{
+    float: left;
+}
+.dividend{
+    float: right;
+}
+.nameTicker{
+    float: left;
+}
+.priceTicker{
+    float: right;    
+}
+.changeTicker{
+    float: left;
+}
+.tickerAndPrice{
+    width: 130px;
+}
+.changeAndDividend{
+    margin-left: 10px;
+    width: 100px;
+}
